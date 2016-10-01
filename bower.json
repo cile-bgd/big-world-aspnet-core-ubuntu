@@ -1,0 +1,21 @@
+{
+  "name": "ASP.NET",
+  "dependencies": {
+    "underscore": "~1.8.3"
+  },
+  "authors": [
+    "cile-bgd <sini.petkovic@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "wwwroot/lib"
+  ]
+}
